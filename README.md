@@ -49,7 +49,7 @@ Ejemplo rápido:
 1. Ir a GitHub → **New repository**
 2. Nombre: `mi-primer-repo`
 3. Visibilidad: **Public**
-4. Marcar: **Add README** ✅
+4. Marcar: **Add README**
 5. Click en **Create repository**
 
 ---
@@ -88,9 +88,9 @@ Este es mi primer repositorio en GitHub para practicar.
 
 ## Cierre + entrega
 
-✅ **Entrega en Moodle:** pegá el link de tu repositorio.
+**Entrega en Moodle:** pegá el link de tu repositorio.
 
 ### Checklist
 
-- Repo público ✅
-- README completo ✅
+- Repo público
+- README completo
