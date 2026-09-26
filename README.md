@@ -11,6 +11,7 @@ Un buen README:
 - mejora tu **portafolio** (se ve más profesional y ordenado)
 
 ---
+Hola mundo
 
 ## Markdown para README (mínimo)
 
@@ -86,7 +87,7 @@ Este es mi primer repositorio en GitHub para practicar.
 
 ---
 
-## Cierre + entrega
+## Cierre + entrega - No se que cambiar
 
 **Entrega en Moodle:** pegá el link de tu repositorio.
 
